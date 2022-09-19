@@ -20,7 +20,7 @@ public class SobreMim {
 
 <hr>
 
-<img align="right" height="120px" src="https://novatorem-ft2qr44uy-mirellanaspolini.vercel.app/api/spotify/?background_color=1A1B27&border_color=ffffff" alt="spotify now playing"/>
+<img align="right" height="115px" src="https://novatorem-ft2qr44uy-mirellanaspolini.vercel.app/api/spotify/?background_color=1A1B27&border_color=ffffff" alt="spotify now playing"/>
 
 <br> 
 

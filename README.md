@@ -7,11 +7,8 @@ public class SobreMim {
 	private String cidade = "Joinville";
 	private String email = "mirellanaspolini35@gmail.com";
 	private String curiosidade = "eu amo pinguins"; //🐧💖
-	private List<String> estudandoAtualmente = Arrays.asList("Desenvolvimento backend com Java",
-								 "Desenvolvimento frontend",
-								 "C#",
-								 "Desenvolvimento de jogos 2d com Java Swing");
-	private String projetoAtual = "League of Legends clone";
+	private List<String> estudandoAtualmente = Arrays.asList("Desenvolvimento frontend");
+	private String projetoAtual = "Clone do site Alura";
 	public String getObjetivo() {
 		return "Crescer como profissional de TI, criando uma carreira bem sucedida";
 	}

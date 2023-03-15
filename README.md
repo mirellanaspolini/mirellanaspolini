@@ -1,13 +1,13 @@
 <h1 align="center">Oi lindões, eu sou a Mi✨</h1>
 
-```java
+```elixir
 public class SobreMim {
-	private String user = "Mirella Naspolini";
-	private int idade = 18;
+	private String nome = "Mirella Naspolini";
+	private int idade = 19;
 	private String cidade = "Joinville";
 	private String email = "mirellanaspolini35@gmail.com";
-	private String curiosidade = "eu amo pinguins"; //🐧💖
-	private List<String> estudandoAtualmente = Arrays.asList("Desenvolvimento frontend");
+	private String curiosidade = "eu amo pinguins"; /* 🐧💕 */
+	private String estudandoAtualmente = "React"; /* # Formação de react da plataforma Alura */
 	private String projetoAtual = "Clone do site Alura";
 	public String getObjetivo() {
 		return "Crescer como profissional de TI, criando uma carreira bem sucedida";
@@ -32,19 +32,21 @@ public class SobreMim {
   
 <h3 align="center">Linguagens e ferramentas:</h3>  
 <p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/sicons/basic-round-social/512/jquery-icon.png" alt="figma" width="40" height="40"/> </a> 
+<a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/sicons/basic-round-social/512/jquery-icon.png" alt="jquery" width="40" height="40"/> </a> 
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/spring-logo.png" alt="git" width="40" height="40"/> </a> 
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 
 </p>
-  
+
+<br/>  
+
 <p align="center"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirellanaspolini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mirellanaspolini"/> <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=mirellanaspolini&theme=tokyonight" alt="mirellanaspolini" /></p>

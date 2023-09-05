@@ -17,7 +17,7 @@ public class SobreMim {
 
 <hr>
 
-<img align="right" height="115px" src="https://novatorem-ft2qr44uy-mirellanaspolini.vercel.app/api/spotify/?background_color=1A1B27&border_color=ffffff" alt="spotify now playing"/>
+<img align="right" height="115px" src="https://novatorem-ft2qr44uy-mirellanaspolini.vercel.app/api/spotify/?background_color=191622&border_color=ffffff" alt="spotify now playing"/>
 
 <br> 
 
@@ -30,23 +30,23 @@ public class SobreMim {
 
 <br>
   
-<h3 align="center">Linguagens e ferramentas:</h3>  
+<h3 align="center">Linguagens e ferramentas que estou aprimorando:</h3>  
 <p align="center"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/sicons/basic-round-social/512/jquery-icon.png" alt="jquery" width="40" height="40"/> </a> 
-<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/spring-logo.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/html.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/css-logo.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/react.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/sass.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/tailwind.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/java.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/springboot.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/mariadb.svg" alt="mariadb" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mirellanaspolini/tecnology-icons/blob/main/figma.svg" alt="figma" width="40" height="40"/> </a> 
 
 </p>
 
 <br/>  
 
-<p align="center"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirellanaspolini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mirellanaspolini"/> <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=mirellanaspolini&theme=tokyonight" alt="mirellanaspolini" /></p>
+<p align="center"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirellanaspolini&show_icons=true&locale=en&layout=compact&theme=omni" alt="mirellanaspolini"/> <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=mirellanaspolini&theme=omni" alt="mirellanaspolini" /></p>

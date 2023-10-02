@@ -7,8 +7,8 @@ public class SobreMim {
 	private String cidade = "Joinville";
 	private String email = "mirellanaspolini35@gmail.com";
 	private String curiosidade = "eu amo pinguins"; /* 🐧💕 */
-	private String estudandoAtualmente = "React"; /* # Formação de react da plataforma Alura */
-	private String projetoAtual = "Clone do site Alura";
+	private String estudandoAtualmente = "React"; /* # Curso React Completo - Origamid */
+	private String ultimoProjeto = "Sweet 'n Switch"; /* # Primeiro projeto em React */
 	public String getObjetivo() {
 		return "Crescer como profissional de TI, criando uma carreira bem sucedida";
 	}

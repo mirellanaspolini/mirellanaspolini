@@ -25,7 +25,7 @@ public class SobreMim {
 <p align="center">  
 <a href="https://linkedin.com/in/mirellanaspolini-12768322b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mirellanaspolini-12768322b"  /></a>  
 <a href="https://instagram.com/naspolini" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="naspolini"/></a>  
-<a href="https://discord.gg/copper#4682" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-4F3AD4?style=for-the-badge&logo=discord&logoColor=white" alt="copper#4682"/></a>  
+<a href="https://www.behance.net/mirellanaspoli?tracking_source=search_users|mirella%20naspolini" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance"/></a>  
 </p> 
 
 <br>
